@@ -1,0 +1,6 @@
+package: github.com/diegofernandes/consul-client-sample
+import:
+- package: github.com/hashicorp/consul
+  version: ^0.7.4
+  subpackages:
+  - api
